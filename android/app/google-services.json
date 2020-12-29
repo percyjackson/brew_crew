@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363485346128",
+    "project_id": "brew-crew-fb611",
+    "storage_bucket": "brew-crew-fb611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363485346128:android:9585ffbb521d6ee3fa9455",
+        "android_client_info": {
+          "package_name": "com.yeison.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363485346128-m78usmhqf5th1pjgri3sqt70qup23ecq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdls4SjtZIz8o5AADblQr3CatMae0gyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363485346128-m78usmhqf5th1pjgri3sqt70qup23ecq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
